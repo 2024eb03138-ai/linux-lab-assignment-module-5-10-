@@ -1,0 +1,4 @@
+File analysis:
+1 9 49 sample.txt
+
+Error: Please provide exactly one argument.
