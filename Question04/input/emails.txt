@@ -1,0 +1,8 @@
+john123@gmail.com
+alice@company.com
+bob_smith@yahoo.com
+invalid@email
+test@123.com
+hello.world@gmail.com
+john123@gmail.com
+admin@site.org
