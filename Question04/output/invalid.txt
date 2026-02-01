@@ -1,0 +1,5 @@
+bob_smith@yahoo.com
+invalid@email
+test@123.com
+hello.world@gmail.com
+admin@site.org
