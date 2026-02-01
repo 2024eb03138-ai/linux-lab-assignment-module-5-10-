@@ -1,0 +1,10 @@
+Students who failed in exactly ONE subject:
+2 Rahul
+4 Priya
+
+Students who passed in ALL subjects:
+1 Amit
+3 Sneha
+
+Count of students who failed in exactly ONE subject: 2
+Count of students who passed in ALL subjects: 2
