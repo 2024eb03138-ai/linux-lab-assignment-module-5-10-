@@ -1,0 +1,6 @@
+mkdir q8_test
+cd q8_test
+mkdir files
+echo "File A" > files/a.txt
+echo "File B" > files/b.txt
+echo "File C" > files/c.txt
