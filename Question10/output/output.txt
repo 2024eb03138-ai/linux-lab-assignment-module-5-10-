@@ -1,0 +1,2 @@
+Parent running with PID: 55669
+Parent received SIGTERM. Cleaning up and exiting gracefully.
