@@ -1,0 +1,8 @@
+Parent PID: 55519
+Child 1 created with PID: 55520
+Child 2 created with PID: 55521
+Child 3 created with PID: 55522
+Parent cleaned up child with PID: 55522
+Parent cleaned up child with PID: 55521
+Parent cleaned up child with PID: 55520
+All child processes cleaned up. No zombies.
