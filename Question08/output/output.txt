@@ -1,0 +1,6 @@
+Parent PID: 55250
+Moving a.txt in background. PID: 55252
+Moving b.txt in background. PID: 55254
+Moving c.txt in background. PID: 55256
+Waiting for background processes...
+All files moved successfully.
