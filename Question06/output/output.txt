@@ -1,0 +1,4 @@
+Longest word: automation
+Shortest word: is
+Average word length: 6.11
+Total unique words: 8
